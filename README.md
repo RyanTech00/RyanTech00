@@ -93,7 +93,7 @@ Forensic investigation of Session Desktop client revealing 5 critical privacy vu
 ## Curriculum Vitae
 
 - [View Europass CV Online](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/ryan+da+silva-barbosa/0d5e877c-884e-467b-bb5f-f1c764dcf540?view=html)
-- [Download CV (PDF)](./CV_Ryan_Barbosa.pdf)
+- [Download CV (PDF)](./RyanEUROPASS.pdf)
 
 ---
 
