@@ -1,100 +1,76 @@
-<div align="center">
+<h1 align="center">Ryan Barbosa</h1>
+<p align="center">
+  <b>Cybersecurity Student · Detection Engineering</b><br>
+  BSc in Information Security in Computer Networks — ESTG-IPP
+</p>
 
-# Ryan da Silva Barbosa
-**Cybersecurity Student** | Portugal
-
----
-
-## Contact
-
-**Email:** contact@ryanbarbosa.com
-
-**LinkedIn:** [linkedin.com/in/ryan-barbosa-451318399](https://linkedin.com/in/ryan-barbosa-451318399)
-
-**Portfolio:** [ryanbarbosa.com](https://ryanbarbosa.com)
-
-**GitHub:** [github.com/RyanTech00](https://github.com/RyanTech00)
-
----
-</div>
-
-## Professional Summary
-
-Cybersecurity student at ESTG - Instituto Politécnico do Porto with strong interest in information security, system administration, and digital forensics. 2nd place winner at Hackathon CyberTech 2025 as team leader. Proven experience in implementing secure enterprise infrastructures, firewall configuration, and threat detection. Demonstrated leadership skills as sports team captain and class delegate.
+<p align="center">
+  <a href="https://ryanbarbosa.com">Portfolio</a> ·
+  <a href="https://linkedin.com/in/ryan-barbosa-451318399">LinkedIn</a> ·
+  <a href="mailto:contact@ryanbarbosa.com">Email</a>
+</p>
 
 ---
 
-## Education
+### About
 
-**CTeSP in Cybersecurity, Networks and IT Systems**  
-ESTG - Instituto Politécnico do Porto | 2023 – 2025 | Felgueiras, Portugal
+Cybersecurity student at <a href="https://www.estg.ipp.pt/">ESTG - Technical University of Porto</a>, currently in the BSc in Information Security in Computer Networks after completing the CTeSP in Cybersecurity, Networks and IT Systems (final average 17.14/20).
 
-**12th Grade - Languages and Humanities**  
-Escola Secundária D. Maria II | Completed 06/2024 | Braga, Portugal
+Completed a Detection Engineering internship at <a href="https://soc.visionware.pt/">VisionWare's SOC</a>, developing and validating SIEM detection rules mapped to the MITRE ATT&CK framework in Elastic Security. 2nd place winner at Hackathon CyberTech 2025 as team leader, also awarded "Hacker Destaque" for outstanding individual contribution.
 
----
-
-## Awards & Achievements
-
-**2nd Place & "Hacker Destaque" Award - Hackathon CyberTech 2025**  
-Incubou | Amarante, Portugal | April 2025
-
-- Led team "404 NotFound" in developing an innovative anti-phishing solution
-- Received individual "Hacker Destaque" award for outstanding technical contribution
-- Presented solution to panel of cybersecurity specialists
-- Certificate protected with blockchain timestamp via OpenTimestamps
+Focused on purple-team, detection engineering, and securing enterprise infrastructure.
 
 ---
 
-## Projects
+### Featured Projects
 
-### FSociety Infrastructure | Systems Administration II | Team Leader
-[github.com/RyanTech00/fsociety-infrastructure](https://github.com/RyanTech00/fsociety-infrastructure) | DOI: 10.5281/zenodo.17840636
+**[claude-telemetry](https://github.com/RyanTech00)** · *In progress*
+Open-source centralized usage-tracking system for Claude Code across multiple machines, using an Elastic/Wazuh-style agent architecture. A lightweight Python agent syncs usage to a central Supabase database; a React dashboard aggregates cost, rate limits, and per-model usage, with PostgreSQL row-level security, magic-link auth, and a Cloudflare Workers proxy keeping all secrets server-side.
+`Python` `React` `Supabase` `PostgreSQL RLS` `Cloudflare Workers` `MCP Server`
 
-Complete enterprise network infrastructure implementation for the fictional company FSociety.pt. Architecture included Four-Legged Firewall with pfSense, virtualization with Proxmox VE, Active Directory with Samba AD DC, and Defense in Depth security strategy with multiple protection layers (Cloudflare WAF, CrowdSec IDS/IPS). Also implemented essential corporate services: email server (Mailcow), web server with reverse proxy (Nginx), backup server (Proxmox Backup Server), domain controller, workstations, Nextcloud for file sharing, and Zammad for ticket management.
+**[FSociety Infrastructure](https://github.com/RyanTech00/fsociety-infrastructure)** · *Team Leader*
+Complete enterprise network infrastructure for the fictional company FSociety.pt. Four-Legged Firewall with pfSense (72+ rules, 4 isolated zones), virtualization with Proxmox VE (6 production servers), Active Directory with Samba AD DC, and a Defense in Depth strategy (Cloudflare WAF, CrowdSec IDS/IPS with 57+ scenarios). Plus corporate services: Mailcow, Nginx reverse proxy, Proxmox Backup Server, Nextcloud, and Zammad.
+`pfSense` `Proxmox VE` `Samba AD DC` `CrowdSec` `Defense in Depth`
 
-### Session Desktop Forensic Analysis | Digital Forensics | Team Leader
-[github.com/RyanTech00/session-desktop-forensics](https://github.com/RyanTech00/session-desktop-forensics)
+**[Session Desktop Forensic Analysis](https://github.com/RyanTech00/session-desktop-forensics)** · *Team Leader*
+Forensic investigation of the Session Desktop client, uncovering 5 critical privacy vulnerabilities — including plaintext storage of SQLCipher encryption keys and recovery of deleted messages via Full-Text Search (FTS) tables. Documented 9 test scenarios with systematic methodology; technical report protected with blockchain timestamp via OpenTimestamps.
+`Digital Forensics` `SQLCipher` `Vulnerability Analysis` `OpenTimestamps`
 
-Forensic investigation of Session Desktop client revealing 5 critical privacy vulnerabilities. Analysis identified serious flaws including SQLCipher encryption key storage in plaintext and the possibility of recovering deleted messages through Full-Text Search (FTS) tables. Also documented 9 test scenarios with systematic methodology, resulting in a technical report protected with blockchain timestamp via OpenTimestamps.
-
----
-
-## Technical Skills
-
-**Operating Systems:** Linux (Ubuntu Server, Kali Linux, Debian), Windows Server 2019/2022, Windows 10/11
-
-**Networks & Security:** pfSense, iptables, Cloudflare WAF, CrowdSec, Snort, OpenVPN, TCP/IP, DNS, DHCP, LDAP, RADIUS
-
-**Virtualization & Services:** Proxmox VE, Proxmox Backup Server, Docker, Samba AD DC, FreeRADIUS, Nginx, Mailcow, Nextcloud
-
-**Forensics & Tools:** SQLCipher, DB Browser for SQLite, Wireshark, Nmap, Netdata Cloud, OpenTimestamps, Git
-
-**Development:** Python, Bash, SQL, JavaScript, React, Vite, Tailwind CSS, HTML, CSS
+**Anti-Phishing Solution — Hackathon CyberTech 2025** 🏆 · *Team Leader*
+2nd place overall + "Hacker Destaque" award. Led team "404 NotFound" in a 24-hour competition to build a functional anti-phishing prevention prototype, presented to a panel of cybersecurity specialists.
+`Phishing Prevention` `Cybersecurity` `Team Leadership` `Prototyping`
 
 ---
 
-## Leadership Experience
+### Experience
 
-- Team leader in all academic cybersecurity projects (ASII, AFD)
-- Team leader at Hackathon CyberTech 2025 (2nd place)
-- Football team captain at Botafogo FR and AD Ninense
-- Class delegate and group representative throughout academic career
+**Detection Engineering Intern** — VisionWare - Sistemas de Informação, S.A. · *Feb – Jul 2026*
+Curricular internship in the Cyber Defense Operations (SOC) team. Developed, tuned, and validated SIEM detection rules mapped to MITRE ATT&CK (rules promoted to production); built multi-stage correlation logic for authentication and config-change events on network perimeter devices; designed and led a 4-layer "Detection Assurance" methodology to map data-coverage gaps across the existing rule portfolio (~20 production rules).
 
 ---
 
-## Languages
+### Technical Skills
 
-- **Portuguese:** Native
-- **English:** Intermediate (B1 Listening / B1 Spoken Interaction)
+**Detection & Defense**
+Detection Engineering (KQL, EQL, ES\|QL) · SIEM Administration (Elastic Security) · MITRE ATT&CK · Detection Assurance & ECS Coverage · SOC Operations & Triage · Vulnerability Analysis · Digital Forensics · Incident Response
+
+**Networks & Infrastructure**
+Network Architecture & Configuration · pfSense Firewalls & VPN · Active Directory & Samba AD DC · DNS / DHCP / RADIUS · Proxmox VE & Docker · Monitoring (Zabbix, CrowdSec)
+
+**Systems Administration**
+Linux (Ubuntu, Debian, CentOS) · Windows Server · Bash & Python Scripting · SQL · Email Servers · Backup & Recovery
+
+**Development & Tools**
+React & JavaScript · HTML / CSS / Tailwind · Git & GitHub · Cloudflare (Pages, Tunnel) · Vite & Node.js · Technical Documentation
 
 ---
 
-## Curriculum Vitae
+### Education & Certifications
 
-- [View Europass CV Online](https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/ryan+da+silva-barbosa/0d5e877c-884e-467b-bb5f-f1c764dcf540?view=html)
-- [Download CV (PDF)](./RyanEUROPASS.pdf)
+- **BSc in Information Security in Computer Networks** — ESTG-IPP · 2026–Present
+- **CTeSP in Cybersecurity, Networks and IT Systems** — ESTG-IPP · 2024–2026 · 17.14/20 (120 ECTS)
+- **LetsDefend SOC Analyst Learning Path** — LetsDefend (now part of Hack The Box) · 2026
 
 ---
 
-*Open to internships and entry-level opportunities in Cybersecurity*
+<p align="center"><i>Only those who take risks deserve to live the extraordinary.</i></p>
