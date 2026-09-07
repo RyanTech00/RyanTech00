@@ -18,7 +18,7 @@ Cybersecurity student at <a href="https://www.estg.ipp.pt/">ESTG - Technical Uni
 
 Completed a Detection Engineering internship at <a href="https://soc.visionware.pt/">VisionWare's SOC</a>, developing and validating SIEM detection rules mapped to the MITRE ATT&CK framework in Elastic Security. 2nd place winner at Hackathon CyberTech 2025 as team leader, also awarded "Hacker Destaque" for outstanding individual contribution.
 
-Focused on purple-team, detection engineering, and securing enterprise infrastructure.
+Focused on detection engineering and SOC operations, working toward a purple-team role.
 
 ---
 
