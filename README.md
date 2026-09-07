@@ -1,7 +1,7 @@
 <h1 align="center">Ryan Barbosa</h1>
 <p align="center">
   <b>Cybersecurity Student · Detection Engineering</b><br>
-  BSc in Information Security in Computer Networks — ESTG-IPP
+  BSc in Information Security in Computer Networks — ESTG-UTP
 </p>
 
 <p align="center">
