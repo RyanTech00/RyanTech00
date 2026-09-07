@@ -24,7 +24,7 @@ Focused on purple-team, detection engineering, and securing enterprise infrastru
 
 ### Featured Projects
 
-**[claude-telemetry](https://github.com/RyanTech00)** · *In progress*
+**[claude-telemetry](https://github.com/RyanTech00/claude-telemetry)** · *In progress*
 Open-source centralized usage-tracking system for Claude Code across multiple machines, using an Elastic/Wazuh-style agent architecture. A lightweight Python agent syncs usage to a central Supabase database; a React dashboard aggregates cost, rate limits, and per-model usage, with PostgreSQL row-level security, magic-link auth, and a Cloudflare Workers proxy keeping all secrets server-side.
 `Python` `React` `Supabase` `PostgreSQL RLS` `Cloudflare Workers` `MCP Server`
 
